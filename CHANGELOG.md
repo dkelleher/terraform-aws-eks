@@ -11,7 +11,7 @@ project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
-- Write your awesome addition here (by @you)
+- Support custom IAM roles for cluster and workers (by @erks)
 
 ### Changed
 
